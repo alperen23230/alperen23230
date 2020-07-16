@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello World!](https://media.giphy.com/media/j0q2t5XWdbx6qgh0x6/giphy.gif)
 
 <!--
 **alperen23230/alperen23230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
