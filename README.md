@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Native iOS and Flutter**
 
-- 💬 Ask me about **Swift, SwiftUI**
+- 💬 Ask me about **Swift, SwiftUI and Flutter**
 
 - 📫 How to reach me **alperenunal68@gmail.com**
 
