@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alperen Unal</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
-- 🌱 I’m currently working on **Native iOS and Flutter**
+- 🌱 I’m currently working on **iOS Apps**
 
-- 💬 Ask me about **Swift, SwiftUI and Flutter**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **alperenunal68@gmail.com**
 
