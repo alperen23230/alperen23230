@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen Unal</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A passionate iOS App Developer</h3>
 
 - 🌱 I’m currently working on **iOS Apps**
 
